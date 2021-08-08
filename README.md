@@ -15,8 +15,13 @@ Dalam aplikasi ini user dapat dengan mudah untuk melakukan pembelian barang mela
 
 ## Running Program
 ![Alt text](/ss/tampilan awal.png?raw=true "Optional Title")
+
 ![Alt text](/ss/daftar barang.png?raw=true "Optional Title")
+
 ![Alt text](/ss/regis.png?raw=true "Optional Title")
+
 ![Alt text](/ss/order.png?raw=true "Optional Title")
+
 ![Alt text](/ss/success.png?raw=true "Optional Title")
+
 ![Alt text](/ss/request.png?raw=true "Optional Title")
