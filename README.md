@@ -14,9 +14,9 @@ Tubes PBO
 Dalam aplikasi ini user dapat dengan mudah untuk melakukan pembelian barang melalui gadget mereka tanpa perlu repot untuk keluar rumah dan dapat menghemat waktu belanja sambil melakukan aktivitas lain, user juga dapat dengan mudah membeli barang dari store luar negeri maupun dalam negeri seperti, sepatu, baju, alat elektronik dsb, user juga dapat merequest suatu produk yang diinginkan menggunakan fitur Request.
 
 ## Running Program
-![Alt text](/ss/tampilan awal.png?raw=true "Optional Title")
+![Alt text](/ss/tampilan_awal.png?raw=true "Optional Title")
 
-![Alt text](/ss/daftar barang.png?raw=true "Optional Title")
+![Alt text](/ss/daftar_barang.png?raw=true "Optional Title")
 
 ![Alt text](/ss/regis.png?raw=true "Optional Title")
 
